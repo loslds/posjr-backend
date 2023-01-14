@@ -1,0 +1,9 @@
+{
+  "name": "posjr-backend",
+  "version": "0.0.1",
+  "description": "Backend do sistema",
+  "main": "dist/index.js",
+  "author": "Oswaldo",
+  "license": "MIT",
+  "private": true
+}
